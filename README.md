@@ -1,5 +1,7 @@
 # MiPrimerRepositorio
-Este es un código en HTML en donde se aplican los conocimientos básicos en la creación de páginas web, esto con ayuda de html usando sus diferentes etiquetas
+Este es un código en HTML en donde se aplican los conocimientos básicos en la creación de páginas web, esto con ayuda de html usando sus diferentes etiquetas.
+
+Para este proyecto se eligio el tema de datos historicos y curiosidades de la NBA a lo largo de los años.
 
 ScreeenShots del Proyecto:
  
